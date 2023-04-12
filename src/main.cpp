@@ -2,7 +2,7 @@
 #include <iostream>
 #include <vector>
 extern "C" using namespace std;
-
+// test
 int windowWidth = 640;
 int windowHeight = 480;
 
